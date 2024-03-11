@@ -1,0 +1,8 @@
+{
+  "name": "ics-user",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/ics-user",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
