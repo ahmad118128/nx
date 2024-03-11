@@ -1,0 +1,8 @@
+{
+  "name": "netsep",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/netsep",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
