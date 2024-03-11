@@ -1,4 +1,5 @@
 import styles from './atoms.module.css';
+import './tailwind.css';
 
 /* eslint-disable-next-line */
 export interface AtomsProps {}

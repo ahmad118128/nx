@@ -1,4 +1,5 @@
 import styles from './page.module.css';
+import { MySharedComponent } from '@nx-net/ui';
 
 export default function Index() {
   /*
@@ -8,12 +9,14 @@ export default function Index() {
    */
   return (
     <div className={styles.page}>
+      <MySharedComponent />
+
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome user 👋
+              Welcome user ahmad 👋
             </h1>
           </div>
 
