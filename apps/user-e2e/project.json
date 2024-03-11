@@ -1,0 +1,8 @@
+{
+  "name": "user-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/user-e2e/src",
+  "targets": {},
+  "tags": [],
+  "implicitDependencies": ["user"]
+}
